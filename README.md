@@ -1,6 +1,6 @@
 ## Design Strategies for Computer Algorithms
 
-###　Implement four computer algorithms
+### Implement four computer algorithms
 * the longest common subsequence problem (Dynamic Programming)
 * two dimentional linear programming problem (Prune and Search)
 * 0/1 knapsack problem (Branch and Bound)
